@@ -1,0 +1,1 @@
+- simple repo just for testing QUB HPC Kelvin2, more info: https://github.com/NI-HPC/nihpc-documentation/blob/main/docs/Running%20Jobs.md
