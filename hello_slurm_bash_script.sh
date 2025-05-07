@@ -10,6 +10,6 @@
 #SBATCH --mail-type=ALL       # email on start, end, or fail
 #SBATCH --mail-user=josephmcinerney7575@gmail.com # replace with your email
 
-module load python3/3.10.5/gcc-9.3.0m # availible python
+module load python3/3.10.5/gcc-9.3.0 # availible python
 cd $SLURM_SUBMIT_DIR                     # ensure we’re in the project dir
 srun python hello_slurm.py               # run your script
